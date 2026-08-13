@@ -8,7 +8,8 @@ My solutions to Harvard's [CS50's Introduction to Programming with Python (CS50P
 | --- | --- |
 | Problem Set 0 | ✅ Complete |
 | Problem Set 1 | ✅ Complete |
-| Problem Set 2 | 🔄 In progress |
+| Problem Set 2 | ✅ Complete |
+| Problem Set 3 | 🔄In progress |
 
 ## Structure
 
@@ -17,6 +18,11 @@ Each folder contains solved problems for that problem set, named after the probl
 ```
 CS50P/
 ├── Problem Set 0/
+│   ├── einstein.py
+│   ├── faces.py
+│   ├── indoor.py
+│   ├── playback.py
+│   └── tip.py
 ├── Problem Set 1/
 │   ├── bank.py
 │   ├── deep.py
@@ -24,6 +30,11 @@ CS50P/
 │   ├── interpreter.py
 │   └── meal.py
 ├── Problem Set 2/
+│   ├── camel.py
+│   ├── coke.py
+│   ├── nutrition.py
+│   ├── plates.py
+│   └── twttr.py
 └── README.md
 ```
 
