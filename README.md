@@ -11,6 +11,8 @@ My solutions to Harvard's [CS50's Introduction to Programming with Python (CS50P
 | Problem Set 2 | ✅ Complete |
 | Problem Set 3 | ✅ Complete |
 | Problem Set 4 | 🔵 In progress |
+| Problem Set 3 | ✅ Complete |
+| Problem Set 4 | 🔵 In progress |
 
 ## Structure
 
@@ -30,11 +32,16 @@ CS50P/
 │ ├── interpreter.py
 │ └── meal.py
 ├── Problem Set 2/
-│   ├── camel.py
-│   ├── coke.py
-│   ├── nutrition.py
-│   ├── plates.py
-│   └── twttr.py
+│ ├── camel.py
+│ ├── coke.py
+│ ├── nutrition.py
+│ ├── plates.py
+│ └── twttr.py
+├── Problem Set 3/
+│ ├── fuel.py
+│ ├── grocery.py
+│ ├── outdated.py
+│ └── taqueria.py
 └── README.md
 ```
 
