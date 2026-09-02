@@ -30,16 +30,11 @@ CS50P/
 │ ├── interpreter.py
 │ └── meal.py
 ├── Problem Set 2/
-│ ├── camel.py
-│ ├── coke.py
-│ ├── nutrition.py
-│ ├── plates.py
-│ └── twttr.py
-├── Problem Set 3/
-│ ├── fuel.py
-│ ├── grocery.py
-│ ├── outdated.py
-│ └── taqueria.py
+│   ├── camel.py
+│   ├── coke.py
+│   ├── nutrition.py
+│   ├── plates.py
+│   └── twttr.py
 └── README.md
 ```
 
