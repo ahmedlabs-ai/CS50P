@@ -36,6 +36,11 @@ CS50P/
 │   ├── nutrition.py
 │   ├── plates.py
 │   └── twttr.py
+├── Problem Set 3/
+│   ├── fuel.py
+│   ├── grocery.py
+│   ├── outdated.py
+│   └── taqueria.py
 └── README.md
 ```
 
