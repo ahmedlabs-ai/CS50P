@@ -10,9 +10,8 @@ My solutions to Harvard's [CS50's Introduction to Programming with Python (CS50P
 | Problem Set 1 | ✅ Complete |
 | Problem Set 2 | ✅ Complete |
 | Problem Set 3 | ✅ Complete |
-| Problem Set 4 | 🔵 In progress |
-| Problem Set 3 | ✅ Complete |
-| Problem Set 4 | 🔵 In progress |
+| Problem Set 4 | ✅ Complete |
+| Problem Set 5 | 🔵 In progress |
 
 ## Structure
 
