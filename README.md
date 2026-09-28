@@ -11,36 +11,57 @@ My solutions to Harvard's [CS50's Introduction to Programming with Python (CS50P
 | Problem Set 2 | ✅ Complete |
 | Problem Set 3 | ✅ Complete |
 | Problem Set 4 | ✅ Complete |
-| Problem Set 5 | 🔵 In progress |
+| Problem Set 5 | ✅ Complete |
 
 ## Structure
 
-Each folder contains solved problems for that problem set, named after the problem (e.g. ``bank.py``, ``deep.py``) rather than generic labels, so the code is easy to find and review.
+Each folder contains solved problems for that problem set, named after the problem (e.g. `bank.py`, `deep.py`) rather than generic labels, so the code is easy to find and review. Problem Set 5 is about unit testing, so each problem has its own folder holding the program and its `pytest` file.
+
 ```
 CS50P/
 ├── Problem Set 0/
-│ ├── einstein.py
-│ ├── faces.py
-│ ├── indoor.py
-│ ├── playback.py
-│ └── tip.py
+│   ├── einstein.py
+│   ├── faces.py
+│   ├── indoor.py
+│   ├── playback.py
+│   └── tip.py
 ├── Problem Set 1/
-│ ├── bank.py
-│ ├── deep.py
-│ ├── extensions.py
-│ ├── interpreter.py
-│ └── meal.py
+│   ├── bank.py
+│   ├── deep.py
+│   ├── extensions.py
+│   ├── interpreter.py
+│   └── meal.py
 ├── Problem Set 2/
-│ ├── camel.py
-│ ├── coke.py
-│ ├── nutrition.py
-│ ├── plates.py
-│ └── twttr.py
+│   ├── camel.py
+│   ├── coke.py
+│   ├── nutrition.py
+│   ├── plates.py
+│   └── twttr.py
 ├── Problem Set 3/
-│ ├── fuel.py
-│ ├── grocery.py
-│ ├── outdated.py
-│ └── taqueria.py
+│   ├── fuel.py
+│   ├── grocery.py
+│   ├── outdated.py
+│   └── taqueria.py
+├── Problem Set 4/
+│   ├── adieu.py
+│   ├── bitcoin.py
+│   ├── emojize.py
+│   ├── figlet.py
+│   ├── game.py
+│   └── professor.py
+├── Problem Set 5/
+│   ├── Test twttr/
+│   │   ├── twttr.py
+│   │   └── test_twttr.py
+│   ├── Test_bank/
+│   │   ├── bank.py
+│   │   └── test_bank.py
+│   ├── Test plates/
+│   │   ├── plates.py
+│   │   └── test_plates.py
+│   └── Test fuel/
+│       ├── fuel.py
+│       └── test_fuel.py
 └── README.md
 ```
 
@@ -50,4 +71,4 @@ I'm Ahmed, self-teaching Python and CS fundamentals from zero.
 
 - 🎯 Goal: studying CS/AI at an Australian university.
 - 💻 Also building freelance-ready technical skills along the way.
-- 📌 This repo is my public build log —> every commit here is real, solved work, not a course-completion certificate.
+- 📌 This repo is my public build log — every commit here is real, solved work, not a course-completion certificate.
