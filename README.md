@@ -12,10 +12,11 @@ My solutions to Harvard's [CS50's Introduction to Programming with Python (CS50P
 | Problem Set 3 | ✅ Complete |
 | Problem Set 4 | ✅ Complete |
 | Problem Set 5 | ✅ Complete |
+| Problem Set 6 | ✅ Complete |
 
 ## Structure
 
-Each folder contains solved problems for that problem set, named after the problem (e.g. `bank.py`, `deep.py`) rather than generic labels, so the code is easy to find and review. Problem Set 5 is about unit testing, so each problem has its own folder holding the program and its `pytest` file.
+Each folder contains solved problems for that problem set, named after the problem (e.g. `bank.py`, `deep.py`) rather than generic labels, so the code is easy to find and review. Problem Set 5 is about unit testing, so each problem has its own folder holding the program and its `pytest` file. Problem Set 6 covers file I/O, so its programs read and write text, CSV, and image files from the command line.
 
 ```
 CS50P/
@@ -62,6 +63,11 @@ CS50P/
 │   └── Test fuel/
 │       ├── fuel.py
 │       └── test_fuel.py
+├── Problem Set 6/
+│   ├── lines.py
+│   ├── pizza.py
+│   ├── scourgify.py
+│   └── shirt.py
 └── README.md
 ```
 
@@ -69,6 +75,6 @@ CS50P/
 
 I'm Ahmed, self-teaching Python and CS fundamentals from zero.
 
-- 🎯 Goal: studying CS/AI at an Australian university.
+- 🎯 Goal: studying CS/AI at an Abroad University.
 - 💻 Also building freelance-ready technical skills along the way.
 - 📌 This repo is my public build log — every commit here is real, solved work, not a course-completion certificate.
